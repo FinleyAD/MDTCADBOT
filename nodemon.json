@@ -1,0 +1,3 @@
+{
+	"ignore": ["botconfig.json", "data.json", "med.json", "package.json", "userData.sqlite"]
+}

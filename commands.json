@@ -1,0 +1,7 @@
+{
+	"sh!childrole": "Give you the childrole",
+	"sh!finduser": "``sh!finduser <term>`` searches and gives all the users in that server that have the term in their name",
+	"sh!ping": "Shows the ping of the bot",
+	"sh!stats": "Shows that statistics of the bot",
+	"sh!cold": "Tells you everything you need to know about a common cold"
+}
